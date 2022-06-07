@@ -1,0 +1,27 @@
+| 英文       | 中文       |
+| ---------- | ---------- |
+| address    | 住处       |
+| adequate   | 足够的     |
+| adhere     | 坚持       |
+| adjacent   | 相邻的     |
+| adjoin     | 相邻       |
+| administer | 管理       |
+| adopt      | 采取；收养 |
+| adore      | 爱慕       |
+| advance    | 前进；进展 |
+| advent     | 到来       |
+| adverse    | 不利的     |
+| advisable  | 可取的     |
+| advocate   | 提倡       |
+| asethetic  | 审美的     |
+| affection  | 喜爱；感情 |
+| affiliate  | 附属公司   |
+| affirm     | 确认       |
+| affluent   | 富裕的     |
+| aggravate  | 加重       |
+| agitate    | 摇动；鼓动 |
+| agony      | 极大痛苦   |
+| alert      | 机警的     |
+| alien      | 外国人     |
+| allege     | 指控       |
+
